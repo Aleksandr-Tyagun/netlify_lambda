@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "lambda": "^0.10.3",
     "netlify-lambda": "^1.6.3"
   }
